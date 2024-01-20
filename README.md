@@ -1,6 +1,6 @@
 <h1>Assignment</h1>
 
-<h2>Iteration 1: initial structure</h2>
+<h2>Iteration 1: initial structure.</h2>
 Within the odin-recipes directory, create an index.html file.
 Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
 <h2>Iteration 2: recipe page</h2>
